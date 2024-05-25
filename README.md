@@ -1,4 +1,4 @@
-# Stock-Market-Analysis
+# StockSage
 
 This project delves into the realm of financial analysis and predictive modeling using Python. It starts by fetching historical stock data for prominent technology companies such as Intel, Tesla, Netflix, and Oracle. Through comprehensive data visualization techniques, including plotting closing prices, moving averages, and daily returns, the project offers insights into each stock's performance over time.
 
